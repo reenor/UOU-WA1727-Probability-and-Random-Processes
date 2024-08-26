@@ -1,4 +1,4 @@
-# Probability and Random Processes
+# Probability and Random Processes (BK21)
 ## Professor in charge
 - Prof. Kwon, Sungoh
 ## Course time
