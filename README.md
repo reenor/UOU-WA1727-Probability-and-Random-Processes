@@ -1,4 +1,4 @@
-# Probabilities and Random Processes
+# Probability and Random Processes
 ## Professor in charge
 - Prof. Kwon, Sungoh
 ## Course time
